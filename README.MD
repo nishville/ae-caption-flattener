@@ -1,4 +1,4 @@
-# ae-caption-flattener
+# After Effects Caption Flattener
 
 Extracts text layers from Premiere-generated caption precomps and bakes them into a single After Effects comp with correct timing.
 
